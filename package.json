@@ -1,5 +1,5 @@
 {
-  "name": "vue2vis",
+  "name": "@etrubenok/vue2vis",
   "version": "0.0.13",
   "description": "Vue2 component that helps with Visjs interaction",
   "jsnext": "dist/vue2vis.js",
@@ -30,7 +30,7 @@
     "visjs"
   ],
   "dependencies": {
-    "vis": "^4.21.0"
+    "@etrubenok/vis": "4.21.0-SNAPSHOT-1"
   },
   "peerDependencies": {
     "vue": "~2.x"

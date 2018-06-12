@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { DataSet, DataView, Graph2d } from 'vis';
+import { DataSet, DataView, Graph2d } from '@etrubenok/vis';
 import { mountVisData } from '../utils';
 
 let graph2d = null;

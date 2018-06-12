@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { DataSet, DataView, Timeline } from 'vis';
+import { DataSet, DataView, Timeline } from '@etrubenok/vis';
 import { mountVisData } from '../utils';
 
 let timeline = null;
